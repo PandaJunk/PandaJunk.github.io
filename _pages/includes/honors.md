@@ -1,0 +1,1 @@
+- *2025.06* Outstanding Graduate, Xi'an Polytechnic University
