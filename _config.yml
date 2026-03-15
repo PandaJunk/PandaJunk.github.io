@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Junkai Lu"
-description              : "M.S. Student in Data Science and Engineering @ ECNU"
+description              : "Recent Research in LLMs, MLLMs & Agents"
 repository               : "PandaJunk/PandaJunk.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "<span style='font-size:90%'>Junkai Lu (陆骏凯)</span>"
-  avatar           : "images/avatar.jpg"
+  avatar           : "/images/avatar.jpg"
   bio              : "M.S. Student @ ECNU"
   location         : "Shanghai, China"
   employer         :

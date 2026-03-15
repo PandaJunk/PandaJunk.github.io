@@ -1,0 +1,2 @@
+- 2023.09 - 至今 \| <img src="/images/ecnu.png" alt="ECNU" width="20" style="vertical-align: middle;"> 数据科学与工程 硕士，华东师范大学，导师：[杨彬](https://scholar.google.com/citations?user=qjBQhoUAAAAJ&hl=en) 教授
+- 2021.09 - 2025.06 \| 软件工程 学士，西安工程大学

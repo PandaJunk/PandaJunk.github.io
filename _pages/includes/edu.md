@@ -1,2 +1,2 @@
-- 2023.09 - Present \| <img src="./images/ecnu.png" alt="ECNU" width="20" style="vertical-align: middle;"> M.S. in Data Science and Engineering, East China Normal University. Advised by Prof. [Bin Yang](https://scholar.google.com/citations?user=qjBQhoUAAAAJ&hl=en).
+- 2023.09 - Present \| <img src="/images/ecnu.png" alt="ECNU" width="20" style="vertical-align: middle;"> M.S. in Data Science and Engineering, East China Normal University. Advised by Prof. [Bin Yang](https://scholar.google.com/citations?user=qjBQhoUAAAAJ&hl=en).
 - 2021.09 - 2025.06 \| B.S. in Software Engineering, Xi'an Polytechnic University
