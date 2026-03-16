@@ -3,7 +3,7 @@
 
 [**面向非平稳时间序列预测的时序稳定与频域差分方法**](https://arxiv.org/abs/2511.08229)
 
-**陆骏凯**, Peng Chen, Chenjuan Guo, Yang Shu, Meng Wang, Bin Yang
+**陆骏凯**, 陈鹏, 郭晨娟, 树杨, 王蒙, 杨彬
 
 🎉 *美国人工智能协会人工智能大会（AAAI），2026。* <span style="color:red;font-weight:bold;">(CCF-A)</span>
 
@@ -17,7 +17,7 @@
 
 [**PATRA: 面向时间序列问答的模式感知对齐与均衡推理**](https://arxiv.org/pdf/2602.23161)
 
-**陆骏凯**, Peng Chen, Xingjian Wu, Yang Shu, Chenjuan Guo, Christian S. Jensen, Bin Yang
+**陆骏凯**, 陈鹏, 吴行健, 树杨, 郭晨娟, Christian S. Jensen, 杨彬
 
 *审稿中* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>  
 
@@ -31,7 +31,7 @@
 
 [**TimeART: 面向工具增强的时间序列 Agent 推理**](https://arxiv.org/pdf/2601.13653)
 
-Xingjian Wu, **陆骏凯**, Zhengyu Li, Xiangfei Qiu, Jilin Hu, Chenjuan Guo, Christian S. Jensen, Bin Yang
+吴行健, **陆骏凯**, 李正宇, 邱翔飞, 胡吉林, 郭晨娟, Christian S. Jensen, 杨彬
 
 *审稿中* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span> 
 
@@ -45,7 +45,7 @@ Xingjian Wu, **陆骏凯**, Zhengyu Li, Xiangfei Qiu, Jilin Hu, Chenjuan Guo, Ch
 
 [**ST-EVO: 面向多智能体通信拓扑的生成式时空演化**](https://arxiv.org/pdf/2602.14681)
 
-Xingjian Wu, Xvyuan Liu, **陆骏凯**, Siyuan Wang, Xiangfei Qiu, Yang Shu, Jilin Hu, Chenjuan Guo, Bin Yang
+吴行健, 柳絮源, **陆骏凯**, 汪思远, 邱翔飞, 树杨, 胡吉林, 郭晨娟, 杨彬
 
 *审稿中* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
 
@@ -59,7 +59,7 @@ Xingjian Wu, Xvyuan Liu, **陆骏凯**, Siyuan Wang, Xiangfei Qiu, Yang Shu, Jil
 
 [**多变量时间序列预测深度学习综述：通道策略视角**](https://arxiv.org/pdf/2502.10721)
 
-Xiangfei Qiu, Hanyin Cheng, Xingjian Wu, **陆骏凯**, Jilin Hu, Chenjuan Guo, Christian S. Jensen, Bin Yang
+邱翔飞, 成涵吟, 吴行健, **陆骏凯**, 胡吉林, 郭晨娟, Christian S. Jensen, 杨彬
 
 *审稿中* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
 
