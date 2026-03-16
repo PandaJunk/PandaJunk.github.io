@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🏷 About Me
+# 🏷 About Me 🐼
 {% include_relative includes/about.md %}
 
 # 🔥 News

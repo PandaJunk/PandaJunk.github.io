@@ -14,7 +14,7 @@ author_profile: true
 
 <span class='anchor' id='about-me'></span>
 
-# 🏷 关于我
+# 🏷 关于我 🐼
 {% include_relative includes_zh/about.md %}
 
 # 🔥 最新动态
