@@ -5,7 +5,7 @@
 
 **Junkai Lu**, Peng Chen, Chenjuan Guo, Yang Shu, Meng Wang, Bin Yang
 
-🎉 *The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026* <span style="color:red;font-weight:bold;">(CCF-A)</span>
+🎉 *The Association for the Advancement of Artificial Intelligence (AAAI), 2026.* <span style="color:red;font-weight:bold;">(CCF-A)</span>
 
 [[Paper]](https://arxiv.org/pdf/2511.08229) \| [[Code]](https://github.com/decisionintelligence/DTAF)
 
@@ -19,7 +19,7 @@
 
 **Junkai Lu**, Peng Chen, Xingjian Wu, Yang Shu, Chenjuan Guo, Christian S. Jensen, Bin Yang
 
-*Under Review* ♠ ♥ ♣ ♦
+*Under Review* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
 
 [[Paper]](https://arxiv.org/pdf/2602.23161)
 
@@ -33,7 +33,7 @@
 
 Xingjian Wu, **Junkai Lu**, Zhengyu Li, Xiangfei Qiu, Jilin Hu, Chenjuan Guo, Christian S. Jensen, Bin Yang
 
-*Under Review* ♠ ♥ ♣ ♦
+*Under Review* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
 
 [[Paper]](https://arxiv.org/pdf/2601.13653)
 
@@ -47,7 +47,7 @@ Xingjian Wu, **Junkai Lu**, Zhengyu Li, Xiangfei Qiu, Jilin Hu, Chenjuan Guo, Ch
 
 Xingjian Wu, Xvyuan Liu, **Junkai Lu**, Siyuan Wang, Xiangfei Qiu, Yang Shu, Jilin Hu, Chenjuan Guo, Bin Yang
 
-*Under Review* ♠ ♥ ♣ ♦
+*Under Review* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
 
 [[Paper]](https://arxiv.org/pdf/2602.14681)
 
@@ -61,7 +61,7 @@ Xingjian Wu, Xvyuan Liu, **Junkai Lu**, Siyuan Wang, Xiangfei Qiu, Yang Shu, Jil
 
 Xiangfei Qiu, Hanyin Cheng, Xingjian Wu, **Junkai Lu**, Jilin Hu, Chenjuan Guo, Christian S. Jensen, Bin Yang
 
-*Under Review* ♠ ♥ ♣ ♦
+*Under Review* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
 
 [[Paper]](https://arxiv.org/pdf/2502.10721)
 

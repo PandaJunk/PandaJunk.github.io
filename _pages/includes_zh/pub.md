@@ -5,7 +5,7 @@
 
 **陆骏凯**, Peng Chen, Chenjuan Guo, Yang Shu, Meng Wang, Bin Yang
 
-🎉 *第 40 届美国人工智能协会人工智能大会（AAAI），2026* <span style="color:red;font-weight:bold;">(CCF-A)</span>
+🎉 *美国人工智能协会人工智能大会（AAAI），2026。* <span style="color:red;font-weight:bold;">(CCF-A)</span>
 
 [[论文]](https://arxiv.org/pdf/2511.08229) \| [[代码]](https://github.com/decisionintelligence/DTAF)
 
@@ -19,7 +19,7 @@
 
 **陆骏凯**, Peng Chen, Xingjian Wu, Yang Shu, Chenjuan Guo, Christian S. Jensen, Bin Yang
 
-*审稿中* ♠ ♥ ♣ ♦  
+*审稿中* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>  
 
 [[论文]](https://arxiv.org/pdf/2602.23161)
 
@@ -33,7 +33,7 @@
 
 Xingjian Wu, **陆骏凯**, Zhengyu Li, Xiangfei Qiu, Jilin Hu, Chenjuan Guo, Christian S. Jensen, Bin Yang
 
-*审稿中* ♠ ♥ ♣ ♦ 
+*审稿中* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span> 
 
 [[论文]](https://arxiv.org/pdf/2601.13653)
 
@@ -47,7 +47,7 @@ Xingjian Wu, **陆骏凯**, Zhengyu Li, Xiangfei Qiu, Jilin Hu, Chenjuan Guo, Ch
 
 Xingjian Wu, Xvyuan Liu, **陆骏凯**, Siyuan Wang, Xiangfei Qiu, Yang Shu, Jilin Hu, Chenjuan Guo, Bin Yang
 
-*审稿中* ♠ ♥ ♣ ♦ 
+*审稿中* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
 
 [[论文]](https://arxiv.org/pdf/2602.14681)
 
@@ -61,7 +61,7 @@ Xingjian Wu, Xvyuan Liu, **陆骏凯**, Siyuan Wang, Xiangfei Qiu, Yang Shu, Jil
 
 Xiangfei Qiu, Hanyin Cheng, Xingjian Wu, **陆骏凯**, Jilin Hu, Chenjuan Guo, Christian S. Jensen, Bin Yang
 
-*审稿中* ♠ ♥ ♣ ♦
+*审稿中* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
 
 [[论文]](https://arxiv.org/pdf/2502.10721)
 
