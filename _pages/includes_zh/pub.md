@@ -12,14 +12,14 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='/images/pub/patra.png' alt="PATRA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='/images/pub/patra.png' alt="PATRA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**PATRA: 面向时间序列问答的模式感知对齐与均衡推理**](https://arxiv.org/pdf/2602.23161)
 
 **陆骏凯**, 陈鹏, 吴行健, 树杨, 郭晨娟, Christian S. Jensen, 杨彬
 
-*审稿中* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>  
+🎉 *国际机器学习大会（ICML）, 2026.* <span style="color:red;font-weight:bold;">(CCF-A)</span>  
 
 [[论文]](https://arxiv.org/pdf/2602.23161)
 
