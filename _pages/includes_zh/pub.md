@@ -1,17 +1,3 @@
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='/images/pub/dtaf.png' alt="DTAF" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**面向非平稳时间序列预测的时序稳定与频域差分方法**](https://arxiv.org/abs/2511.08229)
-
-**陆骏凯**, 陈鹏, 郭晨娟, 树杨, 王蒙, 杨彬
-
-🎉 *美国人工智能协会人工智能大会（AAAI），2026。* <span style="color:red;font-weight:bold;">(CCF-A)</span>
-
-[[论文]](https://arxiv.org/pdf/2511.08229) \| [[代码]](https://github.com/decisionintelligence/DTAF)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='/images/pub/patra.png' alt="PATRA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -22,6 +8,34 @@
 🎉 *国际机器学习大会（ICML）, 2026.* <span style="color:red;font-weight:bold;">(CCF-A)</span>  
 
 [[论文]](https://arxiv.org/pdf/2602.23161)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='/images/pub/c4ts.png' alt="Survey" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**多变量时间序列预测深度学习综述：通道策略视角**](https://arxiv.org/pdf/2502.10721)
+
+邱翔飞, 成涵吟, 吴行健, **陆骏凯**, 胡吉林, 郭晨娟, Christian S. Jensen, 杨彬
+
+🎉 *国际人工智能联合会议 (IJCAI), 2026.* <span style="color:red;font-weight:bold;">(CORE A*)</span>
+
+[[论文]](https://arxiv.org/pdf/2502.10721)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='/images/pub/dtaf.png' alt="DTAF" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**面向非平稳时间序列预测的时序稳定与频域差分方法**](https://arxiv.org/abs/2511.08229)
+
+**陆骏凯**, 陈鹏, 郭晨娟, 树杨, 王蒙, 杨彬
+
+🎉 *美国人工智能协会人工智能大会（AAAI），2026。* <span style="color:red;font-weight:bold;">(CCF-A)</span>
+
+[[论文]](https://arxiv.org/pdf/2511.08229) \| [[代码]](https://github.com/decisionintelligence/DTAF)
 
 </div>
 </div>
@@ -50,20 +64,6 @@
 *审稿中* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
 
 [[论文]](https://arxiv.org/pdf/2602.14681)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='/images/pub/c4ts.png' alt="Survey" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**多变量时间序列预测深度学习综述：通道策略视角**](https://arxiv.org/pdf/2502.10721)
-
-邱翔飞, 成涵吟, 吴行健, **陆骏凯**, 胡吉林, 郭晨娟, Christian S. Jensen, 杨彬
-
-*审稿中* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
-
-[[论文]](https://arxiv.org/pdf/2502.10721)
 
 </div>
 </div>

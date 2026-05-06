@@ -1,17 +1,3 @@
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/pub/dtaf.png' alt="DTAF" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing**](https://arxiv.org/pdf/2511.08229)
-
-**Junkai Lu**, Peng Chen, Chenjuan Guo, Yang Shu, Meng Wang, Bin Yang
-
-🎉 *The Association for the Advancement of Artificial Intelligence (AAAI), 2026.* <span style="color:red;font-weight:bold;">(CCF-A)</span>
-
-[[Paper]](https://arxiv.org/pdf/2511.08229) \| [[Code]](https://github.com/decisionintelligence/DTAF)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/pub/patra.png' alt="PATRA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -22,6 +8,34 @@
 🎉 *The International Conference on Machine Learning (ICML), 2026.* <span style="color:red;font-weight:bold;">(CCF-A)</span>
 
 [[Paper]](https://arxiv.org/pdf/2602.23161)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/pub/c4ts.png' alt="Survey" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective**](https://arxiv.org/pdf/2502.10721)
+
+Xiangfei Qiu, Hanyin Cheng, Xingjian Wu, **Junkai Lu**, Jilin Hu, Chenjuan Guo, Christian S. Jensen, Bin Yang
+
+🎉 *The International Joint Conference on Artificial Intelligence (IJCAI), 2026.* <span style="color:red;font-weight:bold;">(CORE A*)</span>
+
+[[Paper]](https://arxiv.org/pdf/2502.10721)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/pub/dtaf.png' alt="DTAF" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Towards Non-Stationary Time Series Forecasting with Temporal Stabilization and Frequency Differencing**](https://arxiv.org/pdf/2511.08229)
+
+**Junkai Lu**, Peng Chen, Chenjuan Guo, Yang Shu, Meng Wang, Bin Yang
+
+🎉 *The Association for the Advancement of Artificial Intelligence (AAAI), 2026.* <span style="color:red;font-weight:bold;">(CCF-A)</span>
+
+[[Paper]](https://arxiv.org/pdf/2511.08229) \| [[Code]](https://github.com/decisionintelligence/DTAF)
 
 </div>
 </div>
@@ -50,20 +64,6 @@ Xingjian Wu, Xvyuan Liu, **Junkai Lu**, Siyuan Wang, Xiangfei Qiu, Yang Shu, Jil
 *Under Review* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
 
 [[Paper]](https://arxiv.org/pdf/2602.14681)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pub/c4ts.png' alt="Survey" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**A Comprehensive Survey of Deep Learning for Multivariate Time Series Forecasting: A Channel Strategy Perspective**](https://arxiv.org/pdf/2502.10721)
-
-Xiangfei Qiu, Hanyin Cheng, Xingjian Wu, **Junkai Lu**, Jilin Hu, Chenjuan Guo, Christian S. Jensen, Bin Yang
-
-*Under Review* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
-
-[[Paper]](https://arxiv.org/pdf/2502.10721)
 
 </div>
 </div>
