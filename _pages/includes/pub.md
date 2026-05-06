@@ -12,14 +12,14 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pub/patra.png' alt="PATRA" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/pub/patra.png' alt="PATRA" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**PATRA: Pattern-Aware Alignment and Balanced Reasoning for Time Series Question Answering**](https://arxiv.org/pdf/2602.23161)
 
 **Junkai Lu**, Peng Chen, Xingjian Wu, Yang Shu, Chenjuan Guo, Christian S. Jensen, Bin Yang
 
-*Under Review* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
+🎉 *The International Conference on Machine Learning (ICML), 2026.* <span style="color:red;font-weight:bold;">(CCF-A)</span>
 
 [[Paper]](https://arxiv.org/pdf/2602.23161)
 
