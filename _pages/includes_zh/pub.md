@@ -1,4 +1,4 @@
-### 已接收
+<h3 style="font-size: 1.5rem; margin-top: 1.2em;">已接收</h3>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='/images/pub/stevo.png' alt="ST-EVO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,7 +56,7 @@
 </div>
 </div>
 
-### 审稿中
+<h3 style="font-size: 1.5rem; margin-top: 1.2em;">预印本</h3>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='/images/pub/timeart.png' alt="TimeART" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
