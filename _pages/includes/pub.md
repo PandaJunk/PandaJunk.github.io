@@ -54,14 +54,14 @@ Xingjian Wu, **Junkai Lu**, Zhengyu Li, Xiangfei Qiu, Jilin Hu, Chenjuan Guo, Ch
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pub/stevo.png' alt="ST-EVO" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/pub/stevo.png' alt="ST-EVO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ST-EVO: Towards Generative Spatio-Temporal Evolution of Multi-Agent Communication Topologies**](https://arxiv.org/pdf/2602.14681)
 
 Xingjian Wu, Xvyuan Liu, **Junkai Lu**, Siyuan Wang, Xiangfei Qiu, Yang Shu, Jilin Hu, Chenjuan Guo, Bin Yang
 
-*Under Review* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
+🎉 *The Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Conference, 2026.* <span style="color:red;font-weight:bold;">(CCF-B)</span>
 
 [[Paper]](https://arxiv.org/pdf/2602.14681)
 

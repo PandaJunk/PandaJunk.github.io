@@ -54,14 +54,14 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='/images/pub/stevo.png' alt="ST-EVO" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='/images/pub/stevo.png' alt="ST-EVO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**ST-EVO: 面向多智能体通信拓扑的生成式时空演化**](https://arxiv.org/pdf/2602.14681)
 
 吴行健, 柳絮源, **陆骏凯**, 汪思远, 邱翔飞, 树杨, 胡吉林, 郭晨娟, 杨彬
 
-*审稿中* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
+🎉 *自然语言处理经验方法会议（EMNLP）主会, 2026.* <span style="color:red;font-weight:bold;">(CCF-B)</span>
 
 [[论文]](https://arxiv.org/pdf/2602.14681)
 
