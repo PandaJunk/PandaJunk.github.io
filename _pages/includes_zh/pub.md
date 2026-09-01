@@ -5,7 +5,7 @@
 
 吴行健, 柳絮源, **陆骏凯**, 汪思远, 邱翔飞, 树杨, 胡吉林, 郭晨娟, 杨彬
 
-🎉 *自然语言处理经验方法会议（EMNLP）主会, 2026.* <span style="color:red;font-weight:bold;">(CCF-B)</span>
+🎉 *自然语言处理经验方法会议（EMNLP）主会, 2026.* <span style="color:red;font-weight:bold;">(CCF-B, CORE A*)</span>
 
 [[论文]](https://arxiv.org/pdf/2602.14681)
 

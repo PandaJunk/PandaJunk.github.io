@@ -5,7 +5,7 @@
 
 Xingjian Wu, Xvyuan Liu, **Junkai Lu**, Siyuan Wang, Xiangfei Qiu, Yang Shu, Jilin Hu, Chenjuan Guo, Bin Yang
 
-🎉 *The Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Conference, 2026.* <span style="color:red;font-weight:bold;">(CCF-B)</span>
+🎉 *The Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Conference, 2026.* <span style="color:red;font-weight:bold;">(CCF-B, CORE A*)</span>
 
 [[Paper]](https://arxiv.org/pdf/2602.14681)
 
