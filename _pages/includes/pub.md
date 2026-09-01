@@ -7,7 +7,7 @@ Xingjian Wu, Xvyuan Liu, **Junkai Lu**, Siyuan Wang, Xiangfei Qiu, Yang Shu, Jil
 
 🎉 *The Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Conference, 2026.* <span style="color:red;font-weight:bold;">(CCF-B, CORE A*)</span>
 
-[[Paper]](https://arxiv.org/pdf/2602.14681)
+[[Paper]](https://arxiv.org/pdf/2602.14681) \| [[Code]](https://github.com/decisionintelligence/ST-EVO)
 
 </div>
 </div>
@@ -21,7 +21,7 @@ Xingjian Wu, Xvyuan Liu, **Junkai Lu**, Siyuan Wang, Xiangfei Qiu, Yang Shu, Jil
 
 🎉 *The International Conference on Machine Learning (ICML), 2026.* <span style="color:red;font-weight:bold;">(CCF-A)</span>
 
-[[Paper]](https://arxiv.org/pdf/2602.23161)
+[[Paper]](https://arxiv.org/pdf/2602.23161) \| [[Code]](https://github.com/decisionintelligence/PATRA)
 
 </div>
 </div>
@@ -35,7 +35,7 @@ Xiangfei Qiu, Hanyin Cheng, Xingjian Wu, **Junkai Lu**, Jilin Hu, Chenjuan Guo, 
 
 🎉 *The International Joint Conference on Artificial Intelligence (IJCAI), 2026.* <span style="color:red;font-weight:bold;">(CORE A*)</span>
 
-[[Paper]](https://arxiv.org/pdf/2502.10721)
+[[Paper]](https://arxiv.org/pdf/2502.10721) \| [[Code]](https://github.com/decisionintelligence/CS4TS)
 
 </div>
 </div>

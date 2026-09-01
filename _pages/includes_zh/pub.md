@@ -7,7 +7,7 @@
 
 🎉 *自然语言处理经验方法会议（EMNLP）主会, 2026.* <span style="color:red;font-weight:bold;">(CCF-B, CORE A*)</span>
 
-[[论文]](https://arxiv.org/pdf/2602.14681)
+[[论文]](https://arxiv.org/pdf/2602.14681) \| [[代码]](https://github.com/decisionintelligence/ST-EVO)
 
 </div>
 </div>
@@ -21,7 +21,7 @@
 
 🎉 *国际机器学习大会（ICML）, 2026.* <span style="color:red;font-weight:bold;">(CCF-A)</span>  
 
-[[论文]](https://arxiv.org/pdf/2602.23161)
+[[论文]](https://arxiv.org/pdf/2602.23161) \| [[代码]](https://github.com/decisionintelligence/PATRA)
 
 </div>
 </div>
@@ -35,7 +35,7 @@
 
 🎉 *国际人工智能联合会议 (IJCAI), 2026.* <span style="color:red;font-weight:bold;">(CORE A*)</span>
 
-[[论文]](https://arxiv.org/pdf/2502.10721)
+[[论文]](https://arxiv.org/pdf/2502.10721) \| [[代码]](https://github.com/decisionintelligence/CS4TS)
 
 </div>
 </div>
