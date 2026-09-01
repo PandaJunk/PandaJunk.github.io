@@ -67,3 +67,17 @@
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='/images/pub/dmoa.png' alt="DMoA" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**可微分混合智能体激发大语言模型的群体智能**](https://arxiv.org/pdf/2605.15706)
+
+吴行健, **陆骏凯**, 严思雨, 邱翔飞, 胡吉林, 郭晨娟, 杨彬
+
+*审稿中* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
+
+[[论文]](https://arxiv.org/pdf/2605.15706)
+
+</div>
+</div>

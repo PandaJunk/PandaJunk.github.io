@@ -67,3 +67,17 @@ Xingjian Wu, **Junkai Lu**, Zhengyu Li, Xiangfei Qiu, Jilin Hu, Chenjuan Guo, Ch
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pub/dmoa.png' alt="DMoA" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Differentiable Mixture-of-Agents Incentivizes Swarm Intelligence of Large Language Models**](https://arxiv.org/pdf/2605.15706)
+
+Xingjian Wu, **Junkai Lu**, Siyu Yan, Xiangfei Qiu, Jilin Hu, Chenjuan Guo, Bin Yang
+
+*Under Review* ♠ <span style="color:red;font-weight:bold;">♥</span> ♣ <span style="color:red;font-weight:bold;">♦</span>
+
+[[Paper]](https://arxiv.org/pdf/2605.15706)
+
+</div>
+</div>
