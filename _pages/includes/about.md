@@ -3,5 +3,5 @@ I am currently a Master's student in Data Science and Engineering at **East Chin
 ## Research Interests
 My current research interests focus on **LLMs/Multimodal LLMs**, **Agents**, and **Time Series Analysis**, with an emphasis on:
 - ***LLMs/Multimodal LLMs***: Multimodal LLMs for time series understanding and QA ([PATRA](https://arxiv.org/pdf/2602.23161))
-- ***Agents***: Exploring Agent Applications and Self-improvement in Real-World Scenarios ([TimeART](https://arxiv.org/pdf/2601.13653), [ST-EVO](https://arxiv.org/pdf/2602.14681))
+- ***Agents***: Exploring Agent Applications and Self-improvement in Real-World Scenarios ([TimeART](https://arxiv.org/pdf/2601.13653), [ST-EVO](https://arxiv.org/pdf/2602.14681), [DMoA](https://arxiv.org/pdf/2605.15706))
 - ***Time Series Analysis***: Time Series Forecasting, Temporal/Frequency domain modeling, Non-Stationary modeling ([DTAF](https://arxiv.org/pdf/2511.08229))
