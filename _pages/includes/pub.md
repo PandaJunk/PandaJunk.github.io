@@ -1,3 +1,5 @@
+### Accepted
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/pub/stevo.png' alt="ST-EVO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,6 +55,8 @@ Xiangfei Qiu, Hanyin Cheng, Xingjian Wu, **Junkai Lu**, Jilin Hu, Chenjuan Guo, 
 
 </div>
 </div>
+
+### Under Review
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/pub/timeart.png' alt="TimeART" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
