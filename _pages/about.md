@@ -32,3 +32,6 @@ redirect_from:
 # 🎖 Honors and Awards
 {% include_relative includes/honors.md %}
 
+# 🛎 Services
+{% include_relative includes/services.md %}
+

@@ -15,6 +15,9 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
+  - title: "Services"
+    url: "/#-services"
+
 main_zh:
   - title: "关于我"
     url: "/zh/#about-me"
@@ -30,3 +33,6 @@ main_zh:
 
   - title: "荣誉奖项"
     url: "/zh/#-荣誉奖项"
+
+  - title: "学术服务"
+    url: "/zh/#-学术服务"

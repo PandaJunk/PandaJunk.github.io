@@ -28,3 +28,6 @@ author_profile: true
 
 # 🎖 荣誉奖项
 {% include_relative includes_zh/honors.md %}
+
+# 🛎 学术服务
+{% include_relative includes_zh/services.md %}

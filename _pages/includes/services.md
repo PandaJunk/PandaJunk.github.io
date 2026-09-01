@@ -1,1 +1,2 @@
-- *Coming soon.*
+- *2026.07*: Invited as **Program Committee Member** for <span style="color:red;font-weight:bold;font-style:italic;">AAAI 2027</span>.
+- *2026.05*: Invited as **Reviewer** for <span style="color:red;font-weight:bold;font-style:italic;">NeurIPS 2026</span>.

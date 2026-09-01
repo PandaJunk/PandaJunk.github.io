@@ -1,0 +1,2 @@
+- *2026.07*：受邀担任 <span style="color:red;font-weight:bold;font-style:italic;">AAAI 2027</span> **程序委员会成员 (Program Committee)**。
+- *2026.05*：受邀担任 <span style="color:red;font-weight:bold;font-style:italic;">NeurIPS 2026</span> **审稿人 (Reviewer)**。
